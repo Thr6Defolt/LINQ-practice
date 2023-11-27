@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\bin\Debug\net6.0\LINQ practice.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\bin\Debug\net6.0\LINQ practice.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\bin\Debug\net6.0\LINQ practice.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\bin\Debug\net6.0\LINQ practice.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\bin\Debug\net6.0\LINQ practice.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\refint\LINQ practice.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\LINQ practice.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\LINQ practice\LINQ practice\obj\Debug\net6.0\ref\LINQ practice.dll
